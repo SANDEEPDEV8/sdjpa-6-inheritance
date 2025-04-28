@@ -12,8 +12,7 @@ This repository contains source code examples to support my course [Hibernate an
 ![image](https://github.com/user-attachments/assets/9f9c09b2-853a-423c-879a-88816e80612b)
 ![image](https://github.com/user-attachments/assets/696b4e79-559c-442b-aea1-d783f4406e11)
 ![image](https://github.com/user-attachments/assets/40aad407-eb24-4c4a-b06a-831adf9c9a43)
-![image](https://github.com/user-attachments/assets/463a7636-a420-483c-abda-fe77fe4e2299)
-![image](https://github.com/user-attachments/assets/320e8b65-d3ee-4d0a-b6d1-d0de80ad7175)
+![image](https://github.com/user-attachments/assets/f2fe0abf-9d14-47a4-a6b7-3358b7758707)
 
 ![image](https://github.com/user-attachments/assets/9dd7ffed-8611-4847-b68f-b14816e0cce1)
 ![image](https://github.com/user-attachments/assets/aa8cd3a7-5546-4667-8b62-96d576a28664)
