@@ -10,3 +10,11 @@ This repository contains source code examples to support my course [Hibernate an
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
 
 ![image](https://github.com/user-attachments/assets/9f9c09b2-853a-423c-879a-88816e80612b)
+![image](https://github.com/user-attachments/assets/696b4e79-559c-442b-aea1-d783f4406e11)
+![image](https://github.com/user-attachments/assets/40aad407-eb24-4c4a-b06a-831adf9c9a43)
+![image](https://github.com/user-attachments/assets/06dac518-1a52-4f9c-b9fa-5e7dabd4d01e)
+![image](https://github.com/user-attachments/assets/d5724568-9e19-4cb0-95b8-6cc380fdf45c)
+![image](https://github.com/user-attachments/assets/9dd7ffed-8611-4847-b68f-b14816e0cce1)
+![image](https://github.com/user-attachments/assets/aa8cd3a7-5546-4667-8b62-96d576a28664)
+![image](https://github.com/user-attachments/assets/f12500ad-a2cc-41ea-b234-a4a3b13d6f4a)
+![image](https://github.com/user-attachments/assets/2a4b2679-33d4-4d5b-98fc-91de30ce281f)
