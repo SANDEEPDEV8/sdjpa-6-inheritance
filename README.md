@@ -9,3 +9,4 @@ This repository contains source code examples to support my course [Hibernate an
 * Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
 
+![image](https://github.com/user-attachments/assets/9f9c09b2-853a-423c-879a-88816e80612b)
